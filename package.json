@@ -1,0 +1,23 @@
+{
+  "name": "api-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jodm522/api-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jodm522/api-pro/issues"
+  },
+  "homepage": "https://github.com/Jodm522/api-pro#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
